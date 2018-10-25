@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Assignment for unit 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtjae1/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtjae1/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/rtjae1/FriendFinder#readme"
+}
